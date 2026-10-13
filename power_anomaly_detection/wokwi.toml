@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "power_anomaly_detection.ino"
+elf = "power_anomaly_detection.ino"

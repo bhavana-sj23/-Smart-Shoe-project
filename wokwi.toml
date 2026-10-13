@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "smart_shoe/smart_shoe.ino"
+elf = "smart_shoe/smart_shoe.ino"
